@@ -1,0 +1,35 @@
+# Translations template for PROJECT.
+# Copyright (C) 2023 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-01-15 10:43+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: loc.py:110
+msgid "Hello, <b>{user}</b>!"
+msgstr ""
+
+#: loc.py:120
+msgid "Your current language: <i>{language}</i>"
+msgstr ""
+
+#: handlers/users/help.py:13
+msgid "Список команд: "
+msgstr ""
+
+#: handlers/users/start.py:11
+msgid "Привет, {full_name}!"
+msgstr ""
+
